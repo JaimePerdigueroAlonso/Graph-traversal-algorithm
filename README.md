@@ -4,7 +4,7 @@ This project implements graph traversal algorithms to find the shortest path wit
 
 - **Breadth-First Search (BFS)**
 - **Depth-First Search (DFS)**
-- **A* (A-star)**
+- **A-star**
 
 ## Project Structure
 
