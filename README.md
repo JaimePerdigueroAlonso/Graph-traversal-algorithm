@@ -29,5 +29,5 @@ The project is organized into the following folders:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/graph-traversal.git
+   git clone https://github.com/JaimePerdigueroAlonso/Graph-traversal-algorithm.git
 
