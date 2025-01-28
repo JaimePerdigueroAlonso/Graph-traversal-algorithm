@@ -42,6 +42,3 @@ The project is organized into the following folders:
    
    ```bash
    python graph/main.py
-
-
-
